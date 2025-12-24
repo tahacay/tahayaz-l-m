@@ -1,2 +1,2 @@
-# tahayaz-l-m
+# tahayazilim
 Taha Yazılım - Kişisel Portfolio
